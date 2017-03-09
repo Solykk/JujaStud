@@ -16,6 +16,7 @@ package ua.com.juja.week01;
  * от 0 до середины массива на цикл от середины массива
  * до 0 (инкремент (k++) заменить на декремент (k--)).
  */
+
 public class Lab08 {
     public static void invert(int[] arr) {
         for (int k = arr.length / 2; k > 0; k--) {
