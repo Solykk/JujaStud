@@ -1,2 +1,2 @@
 # JujaStud
-My Second Repositiry
+Практика в LMS
