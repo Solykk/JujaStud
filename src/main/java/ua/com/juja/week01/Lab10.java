@@ -33,6 +33,7 @@ package ua.com.juja.week01;
  * - fstIndex++
  * - result[...] = fst[...]
  */
+
 public class Lab10 {
     public static int[] merge(int[] fst, int[] snd) {
         int[] result = new int[fst.length + snd.length];
